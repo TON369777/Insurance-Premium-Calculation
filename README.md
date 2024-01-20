@@ -8,6 +8,7 @@ This sort of machine learning method would be very useful for companies in finan
 
 #### NOTE
 Examining this dataset from Kaggle, one bit of data that is missing is the amount of cover that each customer has as well as what type of insurance policy each customer holds e.g. Life, TPD and/or Income Protection. If this machine learning method were to be used commercially, the business would ideally provide dataset containing this data as each customer's insurance needs are different and this is also a factor that influences premiums charged to the customer.
+
 ![image](https://github.com/TON369777/Insurance-Premium-Calculation/assets/156875448/1b9bc701-2647-46a8-8de7-43e215c20663)
 
 
@@ -19,6 +20,7 @@ Other Models can be used to see if it would further optimise results. Workings s
 
 ## Co efficients determined
 ![image](https://github.com/TON369777/Insurance-Premium-Calculation/assets/156875448/56fbb4ea-527a-4721-9c7c-293ed40a7789)
+
 Based on training data, The model has determined that smoking has a large influence on premiums.
 
 ## Calculating premiums on desired set of parameters

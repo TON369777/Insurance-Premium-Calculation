@@ -4,7 +4,7 @@ Data set obtained from: https://www.kaggle.com/datasets/simranjain17/insurance
 
 ## Overview
 Insurance companies rely on actuarial methods to calculate premiums on their insurance policy offerings to customers. However, Machine Learning methods can be used to engineer a method to calculate premiums based on a given data set.
-This sort of machine learning method would be very useful for companies in financial services industry who offer/ or have offered insurance policies and now require remediation/ compensation calculation work however don't have access to an acturial team or no longer have access to an acturial team (perhaps because the company sold the insurance business).
+This sort of machine learning method would be very useful for companies in financial services industry who offer/ or have offered insurance policies and now require remediation/ compensation calculation work however don't have access to an actuarial team or no longer have access to an actuarial team (perhaps because the company sold the insurance business).
 
 #### NOTE
 Examining this dataset from Kaggle, one bit of data that is missing is the amount of cover that each customer has as well as what type of insurance policy each customer holds e.g. Life, TPD and/or Income Protection.

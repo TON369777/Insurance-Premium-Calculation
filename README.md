@@ -7,7 +7,9 @@ Insurance companies rely on actuarial methods to calculate premiums on their ins
 This sort of machine learning method would be very useful for companies in financial services industry who offer/ or have offered insurance policies and now require remediation/ compensation calculation work however don't have access to an actuarial team or no longer have access to an actuarial team (perhaps because the company sold the insurance business).
 
 #### NOTE
-Examining this dataset from Kaggle, one bit of data that is missing is the amount of cover that each customer has as well as what type of insurance policy each customer holds e.g. Life, TPD and/or Income Protection.
+Examining this dataset from Kaggle, one bit of data that is missing is the amount of cover that each customer has as well as what type of insurance policy each customer holds e.g. Life, TPD and/or Income Protection. If this machine learning method were to be used commercially, the business would ideally provide dataset containing this data as each customer's insurance needs are different and this is also a factor that influences premiums charged to the customer.
+![image](https://github.com/TON369777/Insurance-Premium-Calculation/assets/156875448/1b9bc701-2647-46a8-8de7-43e215c20663)
+
 
 ## Machine Learning Model Chosen: Multiple Linear Regression
 
